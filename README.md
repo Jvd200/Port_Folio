@@ -6,7 +6,7 @@ It showcases my **projects**, **skills**, and **experience** as a Full Stack Dev
 ---
 
 ##  Live Demo
- [View Portfolio](https://dayananda-portfolio.vercel.app)
+ https://portfolio-nine-vert-57.vercel.app/
 
 ---
 
@@ -16,7 +16,7 @@ This portfolio represents my journey as a **Full Stack Developer**.
 It highlights my MERN stack projects, technical & soft skills, and professional background.
 
 ###  Features
-- 📄 Resume view/download option  
+- 📄 Resume view 
 -  “About Me” section with education, experience, and skills  
 -  Project showcase with GitHub & Live Demo links  
 -  Responsive design (works on all screen sizes)  
